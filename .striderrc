@@ -1,0 +1,4 @@
+{
+  "server_name":"http://legend.cqaso.com",
+  "db_uri": "mongodb://xuxiangsheng:Safe$chuangqi@localhost:28000/strider" 
+}
